@@ -8,7 +8,6 @@ import SButton from "./button/index";
 export { MyButton, SFCButton, JSXButton, SButton };
 
 // 编写一个插件，实现一个install方法
-
 export default {
   install(app: App): void {
     app.component(MyButton.name, MyButton);
