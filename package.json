@@ -42,7 +42,7 @@
     "vite": "3.0.7",
     "vitepress": "0.22.4",
     "vitepress-theme-demoblock": "1.4.2",
-    "vitest": "0.21.1"
+    "vitest": "0.27.2"
   },
   "dependencies": {
     "@commitlint/cli": "17.0.2",
